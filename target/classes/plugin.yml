@@ -1,0 +1,9 @@
+name: EventMaker
+version: '1.0-SNAPSHOT'
+main: com.drhalley.eventmaker.EventMaker
+api-version: '1.16'
+extends:
+  config:
+commands:
+  em-add:
+  make-event:

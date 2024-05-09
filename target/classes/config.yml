@@ -1,0 +1,4 @@
+items:
+event-message: 'Event happening!!!!'
+delay: 600
+#delay must be seconds
